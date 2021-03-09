@@ -5,7 +5,7 @@
 
     1.  Write a program find to addition, subtraction, multiplication and division of two numbers entered by the user.
     2.  Write a program to calculate the surface area of cube. [Hint area=6l2]
-    3.  Write a Program to calculate the area and circumference of the circle.
+    3.  Write a program to calculate the area and circumference of the circle.
     4.  The length and breadth are input through the keyboard. Write a program to calculate the area and perimeter of the rectangle.
     5.  Write a program to divide one integer by another integer and find the quotient and remainder.
     6.  Write a program to convert entered number of seconds into hours, minutes and seconds.
@@ -83,7 +83,7 @@
     5.  Write a program to find factorial of a given number using user defined function named long int factorial(int,int).
     6.  Write a program to calculate a raised to power b using user defined function with following prototype: int power(int,int).
     7.  Write a program to display factorial of a given number using recursive function.
-    8.  Write a program to calculate sum of the series 1+2+3+4+	+n using recursive function.
+    8.  Write a program to calculate sum of the series 1+2+3+4+ ... +n using recursive function.
     9.  Write a program to calculate Fibonacci series using recursive function.
     10. Write a program to calculate a raised to the power b using recursive function.
     11. Write a program to find the sum of first twenty natural numbers using function.
