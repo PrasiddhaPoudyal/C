@@ -90,3 +90,62 @@
     12. Write a program to generate the Fibonacci series using recursive function.
 
 <div align = center>C Lab Sheet 5 (Structure and Union) </div>
+
+    1.  Write a program to display the following data in proper manner using structure.
+                    |      Name      |  Total Marks  | Grade |
+                    |  ------------- | ------------- | ----- |
+                    |       Ram      |      100      |   C   |
+                    |      Sita      |      120      |   B   |
+                    |      Gita      |      130      |   B   |
+                    |     Gopal      |      150      |   A   |
+
+    2.  Create a structure named student that has name, roll, marks and remarks as members. Assume appropriate types and size of member. Write a program using               structure to read and display the data entered by the user.
+    3.  Write a program to read the name, rollno and mark of 5 students using array of structure. Display the name and rollno of those students whose mark is               greater than 50.
+    4.  Write a program to read the name, address and salary of 5 employee using array of structure. Display information of each employee in ascending order of             their name.
+    5.  Write a program that reads different names and address into the computer and sorts the names into alphabetical order using structure variables.
+    6.  Create a structure named book which has name, pages and price as member variables. Read name of book, its pages and price as member variables. Read name             of book, its page number and price. Finally display these members value .Use pointer to structure instead of structure itself to access member variable.
+    7.  Create a structure named book which has members name, pages and price. Write a program to read name, no of pages and price of 5 books using array of                 structure. Display the name, no of pages and price of most expensive book.
+    8.  Create a union named student that has roll and marks as member. Assign some value to those members one at a time and display the result one at a time.
+    9.  Write a program to define a structure Date and declare its variable called Date1 and initialize it to February 25, 1957, in the correct format.
+    10. Define a structure called date with three elements day, month and year. Write a program to enter the date and print it.
+    11. Declare a structure template that holds student access information into the student registration system. It should hold the 8 character student username,           the student 9 character id number, and the student 5 digit pin number. Write a program that ask the student information and display them to user.
+    12. Define a structure called date with three elements day, month and year. Write a program to enter the two date and print the difference.
+    13. Design a air line data structure that store the following
+            a) Flight number
+            b) Originating airport code
+            c) Destination airport code
+            d) Starting time
+            e) Arriving time
+    14. Now write a program that prints all the flight information for a specific airport entered by user.
+    15. Define a structure Employee and its variable called Person1 and initialize it to “Hari”, with a salary of $50,000, who was hired on March 10, 2001. (use             structure within structure).
+
+<div align = center>C Lab Sheet 6 (Pointers) </div>
+
+    1.  Write a program which defines three variables of different types: char, float and int. Dispalys the memory address reserved by these variables.
+    2.  Write a program to find the sum of all the elements of an array using pointer.
+    3.  Write a program to read marks obtained by n student in a subject and display the top five marks.
+    4.  Write a program to print the size of pointers that holds the address of three different type variables: int, float, char.
+    5.  Write a program to exchange to value using the pointer. (Call by address)
+    6.  Write a program to add two matrices using pointers (m by n size matrix).
+    7.  Write a program that takes one dimensional array of n numbers and sorts the elements in ascending order. Use dynamic memory allocations.
+    8.  Write a program to read number of employees, n, working in a company. Reserve the memory required to store age of employees using malloc() function. Read           age of n employees from user and count the number of employees of age above 80 years.
+    9.  Write a program to read matrix of size (m x n) entered by user, and display its transpose matrix.
+
+<div align = center>C Lab Sheet 7 (File Handling) </div>
+
+    1.  Create a file named test.txt and write some text “Welcome to my college” to the file.
+    2.  Write a program to open file “test.txt” created in previous question, read its content and display it on screen.
+    3.  Write a program to write and read string using character I/O.
+    4.  Write a program to append some text to a certain file. Take name from user.
+    5.  Write a program to create a file named student .txt in d:\test\ drive and write name, roll, address and marks of a student to this file.
+    6.  Write a program read name, address, and telephone, save it in a file and display them on the screen.
+    7.  Write a program to store string to the data file “new1.dat” and display the same content on the monitor reading from the data file.
+    8.  Write a program to write and read even numbers between 10 and 50 to a file named evennumbers.txt in d:\test\evennumbers.txt.
+    9.  Write a program to create a data file and write the natural numbers 1 to 20 to this file and then read the numbers from the file to display the twice of             the stored numbers.
+    10. Write a program that asks user for 10 numbers and stores them in an array. Write this array to a file and read it to display on the screen.
+
+<div align = center>C Lab Sheet 8 (Graphics) </div>
+
+    1.  Write a program to draw a line.
+    2.  Write a program to draw a rectangle. The length and breadth of rectangle should be taken from users.
+    3.  Write a program to draw a circle. The radius of circle is to be asked to user.
