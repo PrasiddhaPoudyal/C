@@ -12,14 +12,14 @@
     7.  Write a program to convert entered number of days into years, months and days.
     8.  Write a program to convert length from mm to km, m, cm and mm.
     9.  Write a program to input three digit numbers and reverse the number.
-    10. If the marks obtained by a student in five different subjects are input through the keyboard, find out the aggregate marks and percentage marks obtained             by the student. Assume that the maximum marks obtained by a student in each subject are 100.
+    10. If the marks obtained by a student in five different subjects are input through the keyboard, find out the aggregate marks and percentage marks obtained by the student. Assume that the maximum marks obtained by a student in each subject are 100.
     11. Write a program that will convert temperature in Centigrade into Fahrenheit. [Hint: C=5/9(F-32) and F=9/5*C+32]
     12. Write a program that asks three coefficients of a quadratic equation and calculate its root.
     13. Write a program to read three sides of a triangle and calculate the area. [Hint: Area=√s(s-a)(s-b)(s-c)]
     14. Two numbers are input through the keyboard. Write a program to interchange the the contents.
     15. If a five-digit number is entered through the keyboard, write a program to calculate the
     16. the sum of its digits.
-    17. Two number are entered through keyboard and if the first number is greater than second number then print the sum of number otherwise print the difference           of number (use ternary operator).
+    17. Two number are entered through keyboard and if the first number is greater than second number then print the sum of number otherwise print the difference of number (use ternary operator).
     18. Entered a number in decimal and print it in octal and hexadecimal.
     19. Write a program that ask the radius of sphere and print the volume of sphere.
     20. Write a program that ask a number and print the remainder after dividing the number by 5.
@@ -28,7 +28,7 @@
     
     1.  Write a program to generate Fibonacci Series.
     2.  Write a program to print out all Armstrong numbers between 1 and 500.
-    3.  Hint: If sum of cubes of each digit of the number is equal to the number itself, then the number is called an Armstrong number. For example, 153= (1*1*1)           + (5*5*5) + (3*3*3)
+    3.  Hint: If sum of cubes of each digit of the number is equal to the number itself, then the number is called an Armstrong number. For example, 153 = (1*1*1) + (5*5*5) + (3*3*3)
     4.  Write a program to generate numbers from 1 to 10 using while statement.
     5.  Write a program to generate numbers from 9 to 0 using while statement.
     6.  Write a program to print all the numbers from 10 to 1 and find their sum using while loop.
@@ -53,8 +53,8 @@
     3. Write a program to accept 10 numbers and finds and prints the largest and smallest among those numbers.
     4. Write a program that asks user to enter 10 numbers and sorts them in an ascending order and display the sorted number.
     5. Write a program to read 10 numbers and reorders them in ascending order using function.
-    6. Write a program that accepts the marks of BCA-II semester student in C- programming. Now display the marks in descending order. Also display maximum and            minimum marks.
-    7. Twenty-five numbers are entered through the keyboard into an array. Write a program to find out how many of them are positive, how many are negative, how            many are even and how many are odd.
+    6. Write a program that accepts the marks of BCA-II semester student in C- programming. Now display the marks in descending order. Also display maximum and minimum marks.
+    7. Twenty-five numbers are entered through the keyboard into an array. Write a program to find out how many of them are positive, how many are negative, how many are even and how many are odd.
     8. Write a program to read 10 numbers and reorders them in ascending order using array.
     9. Write a program to read a 2*3 matrix and display it on screen.
     10. Write a program to read two m*n matrices and display their sum, difference and product.
@@ -76,7 +76,7 @@
 
 <div align = center>C Lab Sheet 4 (Functions) </div>
 
-    1.  Write a program to accept two numbers perform addition, subtraction, multiplication, division between them using user defined function called add(),                 sub(), div() and mul().
+    1.  Write a program to accept two numbers perform addition, subtraction, multiplication, division between them using user defined function called add(), sub(), div() and mul().
     2.  Write a program to find out the largest among three numbers using user defined function.
     3.  Write a function which receives a float and int from main(), finds the product of these two and returns the product which is printed through main.
     4.  Write a program to check whether the given number is prime or not using user defined function.
@@ -99,16 +99,16 @@
                     |      Gita      |      130      |   B   |
                     |     Gopal      |      150      |   A   |
 
-    2.  Create a structure named student that has name, roll, marks and remarks as members. Assume appropriate types and size of member. Write a program using               structure to read and display the data entered by the user.
-    3.  Write a program to read the name, rollno and mark of 5 students using array of structure. Display the name and rollno of those students whose mark is               greater than 50.
-    4.  Write a program to read the name, address and salary of 5 employee using array of structure. Display information of each employee in ascending order of             their name.
+    2.  Create a structure named student that has name, roll, marks and remarks as members. Assume appropriate types and size of member. Write a program using structure to read and display the data entered by the user.
+    3.  Write a program to read the name, rollno and mark of 5 students using array of structure. Display the name and rollno of those students whose mark is greater than 50.
+    4.  Write a program to read the name, address and salary of 5 employee using array of structure. Display information of each employee in ascending order of their name.
     5.  Write a program that reads different names and address into the computer and sorts the names into alphabetical order using structure variables.
-    6.  Create a structure named book which has name, pages and price as member variables. Read name of book, its pages and price as member variables. Read name             of book, its page number and price. Finally display these members value .Use pointer to structure instead of structure itself to access member variable.
-    7.  Create a structure named book which has members name, pages and price. Write a program to read name, no of pages and price of 5 books using array of                 structure. Display the name, no of pages and price of most expensive book.
+    6.  Create a structure named book which has name, pages and price as member variables. Read name of book, its pages and price as member variables. Read name of book, its page number and price. Finally display these members value .Use pointer to structure instead of structure itself to access member variable.
+    7.  Create a structure named book which has members name, pages and price. Write a program to read name, no of pages and price of 5 books using array of structure. Display the name, no of pages and price of most expensive book.
     8.  Create a union named student that has roll and marks as member. Assign some value to those members one at a time and display the result one at a time.
     9.  Write a program to define a structure Date and declare its variable called Date1 and initialize it to February 25, 1957, in the correct format.
     10. Define a structure called date with three elements day, month and year. Write a program to enter the date and print it.
-    11. Declare a structure template that holds student access information into the student registration system. It should hold the 8 character student username,           the student 9 character id number, and the student 5 digit pin number. Write a program that ask the student information and display them to user.
+    11. Declare a structure template that holds student access information into the student registration system. It should hold the 8 character student username, the student 9 character id number, and the student 5 digit pin number. Write a program that ask the student information and display them to user.
     12. Define a structure called date with three elements day, month and year. Write a program to enter the two date and print the difference.
     13. Design a air line data structure that store the following
             a) Flight number
@@ -117,7 +117,7 @@
             d) Starting time
             e) Arriving time
     14. Now write a program that prints all the flight information for a specific airport entered by user.
-    15. Define a structure Employee and its variable called Person1 and initialize it to “Hari”, with a salary of $50,000, who was hired on March 10, 2001. (use             structure within structure).
+    15. Define a structure Employee and its variable called Person1 and initialize it to “Hari”, with a salary of $50,000, who was hired on March 10, 2001. (use structure within structure).
 
 <div align = center>C Lab Sheet 6 (Pointers) </div>
 
@@ -128,7 +128,7 @@
     5.  Write a program to exchange to value using the pointer. (Call by address)
     6.  Write a program to add two matrices using pointers (m by n size matrix).
     7.  Write a program that takes one dimensional array of n numbers and sorts the elements in ascending order. Use dynamic memory allocations.
-    8.  Write a program to read number of employees, n, working in a company. Reserve the memory required to store age of employees using malloc() function. Read           age of n employees from user and count the number of employees of age above 80 years.
+    8.  Write a program to read number of employees, n, working in a company. Reserve the memory required to store age of employees using malloc() function. Read age of n employees from user and count the number of employees of age above 80 years.
     9.  Write a program to read matrix of size (m x n) entered by user, and display its transpose matrix.
 
 <div align = center>C Lab Sheet 7 (File Handling) </div>
@@ -141,7 +141,7 @@
     6.  Write a program read name, address, and telephone, save it in a file and display them on the screen.
     7.  Write a program to store string to the data file “new1.dat” and display the same content on the monitor reading from the data file.
     8.  Write a program to write and read even numbers between 10 and 50 to a file named evennumbers.txt in d:\test\evennumbers.txt.
-    9.  Write a program to create a data file and write the natural numbers 1 to 20 to this file and then read the numbers from the file to display the twice of             the stored numbers.
+    9.  Write a program to create a data file and write the natural numbers 1 to 20 to this file and then read the numbers from the file to display the twice of the stored numbers.
     10. Write a program that asks user for 10 numbers and stores them in an array. Write this array to a file and read it to display on the screen.
 
 <div align = center>C Lab Sheet 8 (Graphics) </div>
