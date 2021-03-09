@@ -92,12 +92,12 @@
 <div align = center>C Lab Sheet 5 (Structure and Union) </div>
 
     1.  Write a program to display the following data in proper manner using structure.
-                    |      Name      |  Total Marks  | Grade |
-                    |  ------------- | ------------- | ----- |
-                    |       Ram      |      100      |   C   |
-                    |      Sita      |      120      |   B   |
-                    |      Gita      |      130      |   B   |
-                    |     Gopal      |      150      |   A   |
+                    Name | Total Marks | Grade
+                    -- | -- | --
+                    Ram | 100 | C
+                    Sita | 120 | B
+                    Gita | 130 | B
+                    Gopal | 150 | A
 
     2.  Create a structure named student that has name, roll, marks and remarks as members. Assume appropriate types and size of member. Write a program using structure to read and display the data entered by the user.
     3.  Write a program to read the name, rollno and mark of 5 students using array of structure. Display the name and rollno of those students whose mark is greater than 50.
