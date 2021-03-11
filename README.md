@@ -114,7 +114,7 @@
    1. [Define a structure called date with three elements day, month and year. Write a program to enter the two date and print the difference.](http://prasiddhapoudyal.com.np/uploads/5_12.png "Click to see output running")
    1. [Design a air line data structure that store the following](http://prasiddhapoudyal.com.np/uploads/5_13.png "Click to see output running") <br />
             a) Flight number                       <br />
-            b) Originating airport code
+            b) Originating airport code            <br />
             c) Destination airport code            <br />
             d) Starting time                       <br />
             e) Arriving time       
@@ -123,31 +123,31 @@
 
 <div align = center>C Lab Sheet 6 (Pointers) </div>
 
-    1.  Write a program which defines three variables of different types: char, float and int. Dispalys the memory address reserved by these variables.
-    2.  Write a program to find the sum of all the elements of an array using pointer.
-    3.  Write a program to read marks obtained by n student in a subject and display the top five marks.
-    4.  Write a program to print the size of pointers that holds the address of three different type variables: int, float, char.
-    5.  Write a program to exchange to value using the pointer. (Call by address)
-    6.  Write a program to add two matrices using pointers (m by n size matrix).
-    7.  Write a program that takes one dimensional array of n numbers and sorts the elements in ascending order. Use dynamic memory allocations.
-    8.  Write a program to read number of employees, n, working in a company. Reserve the memory required to store age of employees using malloc() function. Read age of n employees from user and count the number of employees of age above 80 years.
-    9.  Write a program to read matrix of size (m x n) entered by user, and display its transpose matrix.
+   1. [Write a program which defines three variables of different types: char, float and int. Dispalys the memory address reserved by these variables.](http://prasiddhapoudyal.com.np/uploads/6_1.png "Click to see output running")
+   1. [Write a program to find the sum of all the elements of an array using pointer.](http://prasiddhapoudyal.com.np/uploads/6_2.png "Click to see output running")
+   1. [Write a program to read marks obtained by n student in a subject and display the top five marks.](http://prasiddhapoudyal.com.np/uploads/6_3.png "Click to see output running")
+   1. [Write a program to print the size of pointers that holds the address of three different type variables: int, float, char.](http://prasiddhapoudyal.com.np/uploads/6_4.png "Click to see output running")
+   1. [Write a program to exchange to value using the pointer. (Call by address)](http://prasiddhapoudyal.com.np/uploads/6_5.png "Click to see output running")
+   1. [Write a program to add two matrices using pointers (m by n size matrix).](http://prasiddhapoudyal.com.np/uploads/6_6.png "Click to see output running")
+   1. [Write a program that takes one dimensional array of n numbers and sorts the elements in ascending order. Use dynamic memory allocations.](http://prasiddhapoudyal.com.np/uploads/6_7.png "Click to see output running")
+   1. [Write a program to read number of employees, n, working in a company. Reserve the memory required to store age of employees using malloc() function. Read age of n employees from user and count the number of employees of age above 80 years.](http://prasiddhapoudyal.com.np/uploads/6_8.png "Click to see output running")
+   1. [Write a program to read matrix of size (m x n) entered by user, and display its transpose matrix.](http://prasiddhapoudyal.com.np/uploads/6_9.png "Click to see output running")
 
 <div align = center>C Lab Sheet 7 (File Handling) </div>
 
-    1.  Create a file named test.txt and write some text “Welcome to my college” to the file.
-    2.  Write a program to open file “test.txt” created in previous question, read its content and display it on screen.
-    3.  Write a program to write and read string using character I/O.
-    4.  Write a program to append some text to a certain file. Take name from user.
-    5.  Write a program to create a file named student .txt in d:\test\ drive and write name, roll, address and marks of a student to this file.
-    6.  Write a program read name, address, and telephone, save it in a file and display them on the screen.
-    7.  Write a program to store string to the data file “new1.dat” and display the same content on the monitor reading from the data file.
-    8.  Write a program to write and read even numbers between 10 and 50 to a file named evennumbers.txt in d:\test\evennumbers.txt.
-    9.  Write a program to create a data file and write the natural numbers 1 to 20 to this file and then read the numbers from the file to display the twice of the stored numbers.
-    10. Write a program that asks user for 10 numbers and stores them in an array. Write this array to a file and read it to display on the screen.
+   1. [Create a file named test.txt and write some text “Welcome to my college” to the file.](http://prasiddhapoudyal.com.np/uploads/7_1.png "Click to see output running")
+   1. [Write a program to open file “test.txt” created in previous question, read its content and display it on screen.](http://prasiddhapoudyal.com.np/uploads/7_2.png "Click to see output running")
+   1. [Write a program to write and read string using character I/O.](http://prasiddhapoudyal.com.np/uploads/7_3.png "Click to see output running")
+   1. [Write a program to append some text to a certain file. Take name from user.](http://prasiddhapoudyal.com.np/uploads/7_4.png "Click to see output running")
+   1. [Write a program to create a file named student .txt in d:\test\ drive and write name, roll, address and marks of a student to this file.](http://prasiddhapoudyal.com.np/uploads/7_5.png "Click to see output running")
+   1. [Write a program read name, address, and telephone, save it in a file and display them on the screen.](http://prasiddhapoudyal.com.np/uploads/7_6.png "Click to see output running")
+   1. [Write a program to store string to the data file “new1.dat” and display the same content on the monitor reading from the data file.](http://prasiddhapoudyal.com.np/uploads/7_7.png "Click to see output running")
+   1. [Write a program to write and read even numbers between 10 and 50 to a file named evennumbers.txt in d:\test\evennumbers.txt.](http://prasiddhapoudyal.com.np/uploads/7_8.png "Click to see output running")
+   1. [Write a program to create a data file and write the natural numbers 1 to 20 to this file and then read the numbers from the file to display the twice of the stored numbers.](http://prasiddhapoudyal.com.np/uploads/7_9.png "Click to see output running")
+   1. [Write a program that asks user for 10 numbers and stores them in an array. Write this array to a file and read it to display on the screen.](http://prasiddhapoudyal.com.np/uploads/7_10.png "Click to see output running")
 
 <div align = center>C Lab Sheet 8 (Graphics) </div>
 
-    1.  Write a program to draw a line.
-    2.  Write a program to draw a rectangle. The length and breadth of rectangle should be taken from users.
-    3.  Write a program to draw a circle. The radius of circle is to be asked to user.
+   1. [Write a program to draw a line.](http://prasiddhapoudyal.com.np/uploads/8_1.png "Click to see output running")
+   1. [Write a program to draw a rectangle. The length and breadth of rectangle should be taken from users.](http://prasiddhapoudyal.com.np/uploads/8_2.png "Click to see output running")
+   1. [Write a program to draw a circle. The radius of circle is to be asked to user.](http://prasiddhapoudyal.com.np/uploads/8_3.png "Click to see output running")
