@@ -36,12 +36,12 @@
    1. [Write a program to print all the numbers from 10 to 1 and find their sum using while loop.](http://prasiddhapoudyal.com.np/uploads/2_6.png "Click to see output running")
    1. [Write a program to calculate factorial of a given number.](http://prasiddhapoudyal.com.np/uploads/2_7.png "Click to see output running")
    1. [Write a program to enter the numbers till the user wants and at the end it should display the count of positive, negative and zeros entered.](http://prasiddhapoudyal.com.np/uploads/2_8.png "Click to see output running")
-   1. [Write a program to generate following output. 
-          *****
-          ****
-          ***
-          **
-          *](http://prasiddhapoudyal.com.np/uploads/2_9.png "Click to see output running")
+   1. [Write a program to generate following output.](http://prasiddhapoudyal.com.np/uploads/2_9.png "Click to see output running") <br /> 
+          * * * * *      <br />
+          * * * *       <br />
+          * * *        <br />
+          * *         <br />
+          *
    1. [Write a program to display Multiplication table from 1-10.](http://prasiddhapoudyal.com.np/uploads/2_10.png "Click to see output running")
    1. [Write a program to display square of given number if it is odd and cube if it is even.](http://prasiddhapoudyal.com.np/uploads/2_11.png "Click to see output running")
    1. [Two numbers are entered through the keyboard. Write a program to find the value of one number raise to the power of another.](http://prasiddhapoudyal.com.np/uploads/2_12.png "Click to see output running")
