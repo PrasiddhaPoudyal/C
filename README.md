@@ -9,22 +9,22 @@
    1. [Write a program to find addition, subtraction, multiplication and division of two numbers entered by the user.](http://prasiddhapoudyal.com.np/uploads/1_1.png "Click to see output running")
    1.  [Write a program to calculate the surface area of cube. [Hint area=6l2]](http://prasiddhapoudyal.com.np/uploads/1_2.png "Click to see output running")
    1.  [Write a program to calculate the area and circumference of the circle.](http://prasiddhapoudyal.com.np/uploads/1_3.png "Click to see output running")
-    4.  The length and breadth are input through the keyboard. Write a program to calculate the area and perimeter of the rectangle.
-    5.  Write a program to divide one integer by another integer and find the quotient and remainder.
-    6.  Write a program to convert entered number of seconds into hours, minutes and seconds.
-    7.  Write a program to convert entered number of days into years, months and days.
-    8.  Write a program to convert length from mm to km, m, cm and mm.
-    9.  Write a program to input three digit numbers and reverse the number.
-    10. If the marks obtained by a student in five different subjects are input through the keyboard, find out the aggregate marks and percentage marks obtained by the student. Assume that the maximum marks obtained by a student in each subject are 100.
-    11. Write a program that will convert temperature in Centigrade into Fahrenheit. [Hint: C=5/9(F-32) and F=9/5*C+32]
-    12. Write a program that asks three coefficients of a quadratic equation and calculate its root.
-    13. Write a program to read three sides of a triangle and calculate the area. [Hint: Area=√s(s-a)(s-b)(s-c)]
-    14. Two numbers are input through the keyboard. Write a program to interchange the the contents.
-    15. If a five-digit number is entered through the keyboard, write a program to calculate the sum of its digits.
-    16. Two number are entered through keyboard and if the first number is greater than second number then print the sum of number otherwise print the difference of number (use ternary operator).
-    17. Entered a number in decimal and print it in octal and hexadecimal.
-    18. Write a program that ask the radius of sphere and print the volume of sphere.
-    19. Write a program that ask a number and print the remainder after dividing the number by 5.
+   1. [The length and breadth are input through the keyboard. Write a program to calculate the area and perimeter of the rectangle.](http://prasiddhapoudyal.com.np/uploads/1_4.png "Click to see output running")
+   1.  [Write a program to divide one integer by another integer and find the quotient and remainder.](http://prasiddhapoudyal.com.np/uploads/1_5.png "Click to see output running")
+   1.  [Write a program to convert entered number of seconds into hours, minutes and seconds.](http://prasiddhapoudyal.com.np/uploads/1_6.png "Click to see output running")
+   1.  [Write a program to convert entered number of days into years, months and days.](http://prasiddhapoudyal.com.np/uploads/1_7.png "Click to see output running")
+   1.  [Write a program to convert length from mm to km, m, cm and mm.](http://prasiddhapoudyal.com.np/uploads/1_8.png "Click to see output running")
+   1.  [Write a program to input three digit numbers and reverse the number.](http://prasiddhapoudyal.com.np/uploads/1_9.png "Click to see output running")
+   1.  [If the marks obtained by a student in five different subjects are input through the keyboard, find out the aggregate marks and percentage marks obtained by the student. Assume that the maximum marks obtained by a student in each subject are 100.](http://prasiddhapoudyal.com.np/uploads/1_10.png "Click to see output running")
+   1.  [Write a program that will convert temperature in Centigrade into Fahrenheit. [Hint: C=5/9(F-32) and F=9/5*C+32]](http://prasiddhapoudyal.com.np/uploads/1_11.png "Click to see output running")
+   1.  [Write a program that asks three coefficients of a quadratic equation and calculate its root.](http://prasiddhapoudyal.com.np/uploads/1_12.png "Click to see output running")
+   1.  [Write a program to read three sides of a triangle and calculate the area. [Hint: Area=√s(s-a)(s-b)(s-c)]](http://prasiddhapoudyal.com.np/uploads/1_13.png "Click to see output running")
+   1.  [Two numbers are input through the keyboard. Write a program to interchange the the contents.](http://prasiddhapoudyal.com.np/uploads/1_14.png "Click to see output running")
+   1.  [If a five-digit number is entered through the keyboard, write a program to calculate the sum of its digits.](http://prasiddhapoudyal.com.np/uploads/1_15.png "Click to see output running")
+   1.  [Two number are entered through keyboard and if the first number is greater than second number then print the sum of number otherwise print the difference of number (use ternary operator).](http://prasiddhapoudyal.com.np/uploads/1_16.png "Click to see output running")
+   1.  [Entered a number in decimal and print it in octal and hexadecimal.](http://prasiddhapoudyal.com.np/uploads/1_17.png "Click to see output running")
+   1.  [Write a program that ask the radius of sphere and print the volume of sphere.](http://prasiddhapoudyal.com.np/uploads/1_18.png "Click to see output running")
+   1.  [Write a program that ask a number and print the remainder after dividing the number by 5.](http://prasiddhapoudyal.com.np/uploads/1_19.png "Click to see output running")
    
 <div align = center> C Lab Sheet 2 (Decision Control and Looping) </div>
     
