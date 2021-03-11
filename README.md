@@ -112,13 +112,12 @@
    1. [Define a structure called date with three elements day, month and year. Write a program to enter the date and print it.](http://prasiddhapoudyal.com.np/uploads/5_10.png "Click to see output running")
    1. [Declare a structure template that holds student access information into the student registration system. It should hold the 8 character student username, the student 9 character id number, and the student 5 digit pin number. Write a program that ask the student information and display them to user.](http://prasiddhapoudyal.com.np/uploads/5_11.png "Click to see output running")
    1. [Define a structure called date with three elements day, month and year. Write a program to enter the two date and print the difference.](http://prasiddhapoudyal.com.np/uploads/5_12.png "Click to see output running")
-   1. [Design a air line data structure that store the following
-            a) Flight number
+   1. [Design a air line data structure that store the following](http://prasiddhapoudyal.com.np/uploads/5_13.png "Click to see output running") <br />
+            a) Flight number                       <br />
             b) Originating airport code
-            c) Destination airport code
-            d) Starting time
-            e) Arriving time
-            ](http://prasiddhapoudyal.com.np/uploads/5_13.png "Click to see output running")
+            c) Destination airport code            <br />
+            d) Starting time                       <br />
+            e) Arriving time       
    1. [Now write a program that prints all the flight information for a specific airport entered by user.](http://prasiddhapoudyal.com.np/uploads/5_14.png "Click to see output running")
    1. [Define a structure Employee and its variable called Person1 and initialize it to “Hari”, with a salary of $50,000, who was hired on March 10, 2001. (use structure within structure).](http://prasiddhapoudyal.com.np/uploads/5_15.png "Click to see output running")
 
