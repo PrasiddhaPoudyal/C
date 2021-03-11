@@ -78,48 +78,50 @@
 
 <div align = center>C Lab Sheet 4 (Functions) </div>
 
-    1.  Write a program to accept two numbers perform addition, subtraction, multiplication, division between them using user defined function called add(), sub(), div() and mul().
-    2.  Write a program to find out the largest among three numbers using user defined function.
-    3.  Write a function which receives a float and int from main(), finds the product of these two and returns the product which is printed through main.
-    4.  Write a program to check whether the given number is prime or not using user defined function.
-    5.  Write a program to find factorial of a given number using user defined function named long int factorial(int,int).
-    6.  Write a program to calculate a raised to power b using user defined function with following prototype: int power(int,int).
-    7.  Write a program to display factorial of a given number using recursive function.
-    8.  Write a program to calculate sum of the series 1+2+3+4+ ... +n using recursive function.
-    9.  Write a program to calculate Fibonacci series using recursive function.
-    10. Write a program to calculate a raised to the power b using recursive function.
-    11. Write a program to find the sum of first twenty natural numbers using function.
-    12. Write a program to generate the Fibonacci series using recursive function.
+   1. [Write a program to accept two numbers perform addition, subtraction, multiplication, division between them using user defined function called add(), sub(), div() and mul().](http://prasiddhapoudyal.com.np/uploads/4_.png "Click to see output running")
+
+   1. [Write a program to find out the largest among three numbers using user defined function.](http://prasiddhapoudyal.com.np/uploads/4_2.png "Click to see output running")
+   1. [Write a function which receives a float and int from main(), finds the product of these two and returns the product which is printed through main.](http://prasiddhapoudyal.com.np/uploads/4_3.png "Click to see output running")
+   1. [Write a program to check whether the given number is prime or not using user defined function.](http://prasiddhapoudyal.com.np/uploads/4_4.png "Click to see output running")
+   1. [Write a program to find factorial of a given number using user defined function named long int factorial(int,int).](http://prasiddhapoudyal.com.np/uploads/4_5.png "Click to see output running")
+   1. [Write a program to calculate a raised to power b using user defined function with following prototype: int power(int,int).](http://prasiddhapoudyal.com.np/uploads/4_6.png "Click to see output running")
+   1. [Write a program to display factorial of a given number using recursive function.](http://prasiddhapoudyal.com.np/uploads/4_7.png "Click to see output running")
+   1. [Write a program to calculate sum of the series 1+2+3+4+ ... +n using recursive function.](http://prasiddhapoudyal.com.np/uploads/4_8.png "Click to see output running")
+   1. [Write a program to calculate Fibonacci series using recursive function.](http://prasiddhapoudyal.com.np/uploads/4_9.png "Click to see output running")
+   1. [Write a program to calculate a raised to the power b using recursive function.](http://prasiddhapoudyal.com.np/uploads/4_10.png "Click to see output running")
+   1. [Write a program to find the sum of first twenty natural numbers using function.](http://prasiddhapoudyal.com.np/uploads/4_11.png "Click to see output running")
+   1. [Write a program to generate the Fibonacci series using recursive function.](http://prasiddhapoudyal.com.np/uploads/4_12.png "Click to see output running")
 
 <div align = center>C Lab Sheet 5 (Structure and Union) </div>
 
-    1.  Write a program to display the following data in proper manner using structure.
+   1. [Write a program to display the following data in proper manner using structure.
    Name | Total Marks | Grade
    -- | -- | --
    Ram | 100 | C
    Sita | 120 | B
    Gita | 130 | B
    Gopal | 150 | A
-
-    2.  Create a structure named student that has name, roll, marks and remarks as members. Assume appropriate types and size of member. Write a program using structure to read and display the data entered by the user.
-    3.  Write a program to read the name, rollno and mark of 5 students using array of structure. Display the name and rollno of those students whose mark is greater than 50.
-    4.  Write a program to read the name, address and salary of 5 employee using array of structure. Display information of each employee in ascending order of their name.
-    5.  Write a program that reads different names and address into the computer and sorts the names into alphabetical order using structure variables.
-    6.  Create a structure named book which has name, pages and price as member variables. Read name of book, its pages and price as member variables. Read name of book, its page number and price. Finally display these members value .Use pointer to structure instead of structure itself to access member variable.
-    7.  Create a structure named book which has members name, pages and price. Write a program to read name, no of pages and price of 5 books using array of structure. Display the name, no of pages and price of most expensive book.
-    8.  Create a union named student that has roll and marks as member. Assign some value to those members one at a time and display the result one at a time.
-    9.  Write a program to define a structure Date and declare its variable called Date1 and initialize it to February 25, 1957, in the correct format.
-    10. Define a structure called date with three elements day, month and year. Write a program to enter the date and print it.
-    11. Declare a structure template that holds student access information into the student registration system. It should hold the 8 character student username, the student 9 character id number, and the student 5 digit pin number. Write a program that ask the student information and display them to user.
-    12. Define a structure called date with three elements day, month and year. Write a program to enter the two date and print the difference.
-    13. Design a air line data structure that store the following
+](http://prasiddhapoudyal.com.np/uploads/5_1.png "Click to see output running")
+   1. [Create a structure named student that has name, roll, marks and remarks as members. Assume appropriate types and size of member. Write a program using structure to read and display the data entered by the user.](http://prasiddhapoudyal.com.np/uploads/5_2.png "Click to see output running")
+   1. [Write a program to read the name, rollno and mark of 5 students using array of structure. Display the name and rollno of those students whose mark is greater than 50.](http://prasiddhapoudyal.com.np/uploads/5_3.png "Click to see output running")
+   1. [Write a program to read the name, address and salary of 5 employee using array of structure. Display information of each employee in ascending order of their name.](http://prasiddhapoudyal.com.np/uploads/5_4.png "Click to see output running")
+   1. [Write a program that reads different names and address into the computer and sorts the names into alphabetical order using structure variables.](http://prasiddhapoudyal.com.np/uploads/5_5.png "Click to see output running")
+   1. [Create a structure named book which has name, pages and price as member variables. Read name of book, its pages and price as member variables. Read name of book, its page number and price. Finally display these members value .Use pointer to structure instead of structure itself to access member variable.](http://prasiddhapoudyal.com.np/uploads/5_6.png "Click to see output running")
+   1. [Create a structure named book which has members name, pages and price. Write a program to read name, no of pages and price of 5 books using array of structure. Display the name, no of pages and price of most expensive book.](http://prasiddhapoudyal.com.np/uploads/5_7.png "Click to see output running")
+   1. [Create a union named student that has roll and marks as member. Assign some value to those members one at a time and display the result one at a time.](http://prasiddhapoudyal.com.np/uploads/5_8.png "Click to see output running")
+   1. [Write a program to define a structure Date and declare its variable called Date1 and initialize it to February 25, 1957, in the correct format.](http://prasiddhapoudyal.com.np/uploads/5_9.png "Click to see output running")
+   1. [Define a structure called date with three elements day, month and year. Write a program to enter the date and print it.](http://prasiddhapoudyal.com.np/uploads/5_10.png "Click to see output running")
+   1. [Declare a structure template that holds student access information into the student registration system. It should hold the 8 character student username, the student 9 character id number, and the student 5 digit pin number. Write a program that ask the student information and display them to user.](http://prasiddhapoudyal.com.np/uploads/5_11.png "Click to see output running")
+   1. [Define a structure called date with three elements day, month and year. Write a program to enter the two date and print the difference.](http://prasiddhapoudyal.com.np/uploads/5_12.png "Click to see output running")
+   1. [Design a air line data structure that store the following
             a) Flight number
             b) Originating airport code
             c) Destination airport code
             d) Starting time
             e) Arriving time
-    14. Now write a program that prints all the flight information for a specific airport entered by user.
-    15. Define a structure Employee and its variable called Person1 and initialize it to “Hari”, with a salary of $50,000, who was hired on March 10, 2001. (use structure within structure).
+            ](http://prasiddhapoudyal.com.np/uploads/5_13.png "Click to see output running")
+   1. [Now write a program that prints all the flight information for a specific airport entered by user.](http://prasiddhapoudyal.com.np/uploads/5_14.png "Click to see output running")
+   1. [Define a structure Employee and its variable called Person1 and initialize it to “Hari”, with a salary of $50,000, who was hired on March 10, 2001. (use structure within structure).](http://prasiddhapoudyal.com.np/uploads/5_15.png "Click to see output running")
 
 <div align = center>C Lab Sheet 6 (Pointers) </div>
 
