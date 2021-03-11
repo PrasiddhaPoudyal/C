@@ -16,13 +16,12 @@
     12. Write a program that asks three coefficients of a quadratic equation and calculate its root.
     13. Write a program to read three sides of a triangle and calculate the area. [Hint: Area=√s(s-a)(s-b)(s-c)]
     14. Two numbers are input through the keyboard. Write a program to interchange the the contents.
-    15. If a five-digit number is entered through the keyboard, write a program to calculate the
-    16. the sum of its digits.
-    17. Two number are entered through keyboard and if the first number is greater than second number then print the sum of number otherwise print the difference of number (use ternary operator).
-    18. Entered a number in decimal and print it in octal and hexadecimal.
-    19. Write a program that ask the radius of sphere and print the volume of sphere.
-    20. Write a program that ask a number and print the remainder after dividing the number by 5.
-    
+    15. If a five-digit number is entered through the keyboard, write a program to calculate the sum of its digits.
+    16. Two number are entered through keyboard and if the first number is greater than second number then print the sum of number otherwise print the difference of number (use ternary operator).
+    17. Entered a number in decimal and print it in octal and hexadecimal.
+    18. Write a program that ask the radius of sphere and print the volume of sphere.
+    19. Write a program that ask a number and print the remainder after dividing the number by 5.
+   
 <div align = center> C Lab Sheet 2 (Decision Control and Looping) </div>
     
     1.  Write a program to generate Fibonacci Series.
