@@ -94,14 +94,13 @@
 
 <div align = center>C Lab Sheet 5 (Structure and Union) </div>
 
-   1. [Write a program to display the following data in proper manner using structure.
+   1. [Write a program to display the following data in proper manner using structure.](http://prasiddhapoudyal.com.np/uploads/5_1.png "Click to see output running")
    Name | Total Marks | Grade
    -- | -- | --
    Ram | 100 | C
    Sita | 120 | B
    Gita | 130 | B
    Gopal | 150 | A
-](http://prasiddhapoudyal.com.np/uploads/5_1.png "Click to see output running")
    1. [Create a structure named student that has name, roll, marks and remarks as members. Assume appropriate types and size of member. Write a program using structure to read and display the data entered by the user.](http://prasiddhapoudyal.com.np/uploads/5_2.png "Click to see output running")
    1. [Write a program to read the name, rollno and mark of 5 students using array of structure. Display the name and rollno of those students whose mark is greater than 50.](http://prasiddhapoudyal.com.np/uploads/5_3.png "Click to see output running")
    1. [Write a program to read the name, address and salary of 5 employee using array of structure. Display information of each employee in ascending order of their name.](http://prasiddhapoudyal.com.np/uploads/5_4.png "Click to see output running")
