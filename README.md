@@ -28,53 +28,53 @@
    
 <div align = center> C Lab Sheet 2 (Decision Control and Looping) </div>
     
-    1.  Write a program to generate Fibonacci Series.
-    2.  Write a program to print out all Armstrong numbers between 1 and 500.
-    3.  Hint: If sum of cubes of each digit of the number is equal to the number itself, then the number is called an Armstrong number. For example, 153 = (1*1*1) + (5*5*5) + (3*3*3)
-    4.  Write a program to generate numbers from 1 to 10 using while statement.
-    5.  Write a program to generate numbers from 9 to 0 using while statement.
-    6.  Write a program to print all the numbers from 10 to 1 and find their sum using while loop.
-    7.  Write a program to calculate factorial of a given number.
-    8.  Write a program to enter the numbers till the user wants and at the end it should display the count of positive, negative and zeros entered.
-    9.  Write a program to generate following output. 
+   1. [Write a program to generate Fibonacci Series.](http://prasiddhapoudyal.com.np/uploads/2_1.png "Click to see output running")
+   1. [Write a program to print out all Armstrong numbers between 1 and 500.](http://prasiddhapoudyal.com.np/uploads/2_2.png "Click to see output running")
+   1. [Hint: If sum of cubes of each digit of the number is equal to the number itself, then the number is called an Armstrong number. For example, 153 = (1*1*1) + (5*5*5) + (3*3*3)](http://prasiddhapoudyal.com.np/uploads/2_3.png "Click to see output running")
+   1. [Write a program to generate numbers from 1 to 10 using while statement.](http://prasiddhapoudyal.com.np/uploads/2_4.png "Click to see output running")
+   1. [Write a program to generate numbers from 9 to 0 using while statement.](http://prasiddhapoudyal.com.np/uploads/2_5.png "Click to see output running")
+   1. [Write a program to print all the numbers from 10 to 1 and find their sum using while loop.](http://prasiddhapoudyal.com.np/uploads/2_6.png "Click to see output running")
+   1. [Write a program to calculate factorial of a given number.](http://prasiddhapoudyal.com.np/uploads/2_7.png "Click to see output running")
+   1. [Write a program to enter the numbers till the user wants and at the end it should display the count of positive, negative and zeros entered.](http://prasiddhapoudyal.com.np/uploads/2_8.png "Click to see output running")
+   1. [Write a program to generate following output. 
           *****
           ****
           ***
           **
-          *
-    10. Write a program to display Multiplication table from 1-10.
-    11. Write a program to display square of given number if it is odd and cube if it is even.
-    12. Two numbers are entered through the keyboard. Write a program to find the value of one number raise to the power of another.
-    13. Write a program to find the product of digits of any number.
-    14. Write a program to find the sum of digits of any number.
+          *](http://prasiddhapoudyal.com.np/uploads/2_9.png "Click to see output running")
+   1. [Write a program to display Multiplication table from 1-10.](http://prasiddhapoudyal.com.np/uploads/2_10.png "Click to see output running")
+   1. [Write a program to display square of given number if it is odd and cube if it is even.](http://prasiddhapoudyal.com.np/uploads/2_11.png "Click to see output running")
+   1. [Two numbers are entered through the keyboard. Write a program to find the value of one number raise to the power of another.](http://prasiddhapoudyal.com.np/uploads/2_12.png "Click to see output running")
+   1. [Write a program to find the product of digits of any number.](http://prasiddhapoudyal.com.np/uploads/2_13.png "Click to see output running")
+   1. [Write a program to find the sum of digits of any number.](http://prasiddhapoudyal.com.np/uploads/2_14.png "Click to see output running")
 
 <div align = center> C Lab Sheet 3 (Array and Strings) </div>
 
-    1. Write a program that asks user to enter 10 numbers, read them into an array and finds the sum, product, average and maximum of all numbers and prints them.
-    2. Write a program to enter 10 different numbers and print them with array variables and their addresses.
-    3. Write a program to accept 10 numbers and finds and prints the largest and smallest among those numbers.
-    4. Write a program that asks user to enter 10 numbers and sorts them in an ascending order and display the sorted number.
-    5. Write a program to read 10 numbers and reorders them in ascending order using function.
-    6. Write a program that accepts the marks of BCA-II semester student in C- programming. Now display the marks in descending order. Also display maximum and minimum marks.
-    7. Twenty-five numbers are entered through the keyboard into an array. Write a program to find out how many of them are positive, how many are negative, how many are even and how many are odd.
-    8. Write a program to read 10 numbers and reorders them in ascending order using array.
-    9. Write a program to read a 2*3 matrix and display it on screen.
-    10. Write a program to read two m*n matrices and display their sum, difference and product.
-    11. Write a program to display prime numbers between 1 to 100.
-    12. Write a program to read marks of 10 students and print out the top five.
-    13. Write a program to copy contents of one array into another in reverse order.
-    14. Write a program to find length of string input from user using and without using library function strlen( ).
-    15. Write a program that accept a string from user and display the content in upper case.
-    16. Write a program that accept a string from user and display the content in lower case.
-    17. Write a program that accept a string from user and toggle the case of alphabet.
-    18. Write a program that determines the string is palindrome or not.
-    19. Write a program that accept the string and display it in reverse order using and without using strrev( ) function..
-    20. Write a program that accept a string and display its ascii value.
-    21. Write a program that determines how many lower case, upper case and space are in a given string.
-    22. Write a program to input a string and count number of vowels present in the string.
-    23. Write a program to compare two strings and display larger one.
-    24. Write a program to concatenate two strings without using string handling built in function.
-    25. Write a program to read names of 10 students and sort them in alphabetical order.
+   1. [Write a program that asks user to enter 10 numbers, read them into an array and finds the sum, product, average and maximum of all numbers and prints them.](http://prasiddhapoudyal.com.np/uploads/3_1.png "Click to see output running")
+   1. [Write a program to enter 10 different numbers and print them with array variables and their addresses.](http://prasiddhapoudyal.com.np/uploads/3_2.png "Click to see output running")
+   1. [Write a program to accept 10 numbers and finds and prints the largest and smallest among those numbers.](http://prasiddhapoudyal.com.np/uploads/3_3.png "Click to see output running")
+   1. [Write a program that asks user to enter 10 numbers and sorts them in an ascending order and display the sorted number.](http://prasiddhapoudyal.com.np/uploads/3_4.png "Click to see output running")
+   1. [Write a program to read 10 numbers and reorders them in ascending order using function.](http://prasiddhapoudyal.com.np/uploads/3_5.png "Click to see output running")
+   1. [Write a program that accepts the marks of BCA-II semester student in C- programming. Now display the marks in descending order. Also display maximum and minimum marks.](http://prasiddhapoudyal.com.np/uploads/3_6.png "Click to see output running")
+   1. [Twenty-five numbers are entered through the keyboard into an array. Write a program to find out how many of them are positive, how many are negative, how many are even and how many are odd.](http://prasiddhapoudyal.com.np/uploads/3_7.png "Click to see output running")
+   1. [Write a program to read 10 numbers and reorders them in ascending order using array.](http://prasiddhapoudyal.com.np/uploads/3_8.png "Click to see output running")
+   1. [Write a program to read a 2*3 matrix and display it on screen.](http://prasiddhapoudyal.com.np/uploads/3_9.png "Click to see output running")
+   1. [Write a program to read two m*n matrices and display their sum, difference and product.](http://prasiddhapoudyal.com.np/uploads/3_10.png "Click to see output running")
+   1. [Write a program to display prime numbers between 1 to 100.](http://prasiddhapoudyal.com.np/uploads/3_11.png "Click to see output running")
+   1. [Write a program to read marks of 10 students and print out the top five.](http://prasiddhapoudyal.com.np/uploads/3_12.png "Click to see output running")
+   1. [Write a program to copy contents of one array into another in reverse order.](http://prasiddhapoudyal.com.np/uploads/3_13.png "Click to see output running")
+   1. [Write a program to find length of string input from user using and without using library function strlen( ).](http://prasiddhapoudyal.com.np/uploads/3_14.png "Click to see output running")
+   1. [Write a program that accept a string from user and display the content in upper case.](http://prasiddhapoudyal.com.np/uploads/3_15.png "Click to see output running")
+   1. [Write a program that accept a string from user and display the content in lower case.](http://prasiddhapoudyal.com.np/uploads/3_16.png "Click to see output running")
+   1. [Write a program that accept a string from user and toggle the case of alphabet.](http://prasiddhapoudyal.com.np/uploads/3_17.png "Click to see output running")
+   1. [Write a program that determines the string is palindrome or not.](http://prasiddhapoudyal.com.np/uploads/3_18.png "Click to see output running")
+   1. [Write a program that accept the string and display it in reverse order using and without using strrev( ) function.](http://prasiddhapoudyal.com.np/uploads/3_19.png "Click to see output running")
+   1. [Write a program that accept a string and display its ascii value.](http://prasiddhapoudyal.com.np/uploads/3_20.png "Click to see output running")
+   1. [Write a program that determines how many lower case, upper case and space are in a given string.](http://prasiddhapoudyal.com.np/uploads/3_21.png "Click to see output running")
+   1. [Write a program to input a string and count number of vowels present in the string.](http://prasiddhapoudyal.com.np/uploads/3_22.png "Click to see output running")
+   1. [Write a program to compare two strings and display larger one.](http://prasiddhapoudyal.com.np/uploads/3_23.png "Click to see output running")
+   1. [Write a program to concatenate two strings without using string handling built in function.](http://prasiddhapoudyal.com.np/uploads/3_24.png "Click to see output running")
+   1. [Write a program to read names of 10 students and sort them in alphabetical order.](http://prasiddhapoudyal.com.np/uploads/3_25.png "Click to see output running")
 
 <div align = center>C Lab Sheet 4 (Functions) </div>
 
