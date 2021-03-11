@@ -79,7 +79,6 @@
 <div align = center>C Lab Sheet 4 (Functions) </div>
 
    1. [Write a program to accept two numbers perform addition, subtraction, multiplication, division between them using user defined function called add(), sub(), div() and mul().](http://prasiddhapoudyal.com.np/uploads/4_.png "Click to see output running")
-
    1. [Write a program to find out the largest among three numbers using user defined function.](http://prasiddhapoudyal.com.np/uploads/4_2.png "Click to see output running")
    1. [Write a function which receives a float and int from main(), finds the product of these two and returns the product which is printed through main.](http://prasiddhapoudyal.com.np/uploads/4_3.png "Click to see output running")
    1. [Write a program to check whether the given number is prime or not using user defined function.](http://prasiddhapoudyal.com.np/uploads/4_4.png "Click to see output running")
