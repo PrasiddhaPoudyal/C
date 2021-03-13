@@ -2,7 +2,8 @@
 
 # <div align = center> C labsheets solutions </div>
 ## Contents:
-### <div align = center>Click on any of the questions below to see its output (Open in incognito tab if doesn't open normally)</div>
+### <div align = center>Click on any of the questions below to see its output</div> 
+(If doesn't open on click and gives 404 error, either **try opening in incognito tab** or **clear browsing data**)
 
 <div align = center> C Lab Sheet 1 (Basic constructor in C) </div>(1 to 10 only available for now.)
 
