@@ -2,7 +2,7 @@
 
 # <div align = center> C labsheets solutions </div>
 ## Contents:
-### <div align = center>Click on any of the questions below to see its output(Only For Premium Users)</div>
+### <div align = center>Click on any of the questions below to see its output (Open in incognito tab if doesn't open normally)</div>
 
 <div align = center> C Lab Sheet 1 (Basic constructor in C) </div>
 
