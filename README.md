@@ -1,6 +1,9 @@
 
 
 # <div align = center> C labsheets solutions </div>
+## To download all the programs follow these steps:
+         Step 1: Install Git
+         Step 2: git clone "https://github.com/prasiddhapoudyal/c.git"
 ## Contents:
 ### <div align = center>Click on any of the questions below to see its output</div> 
 (If doesn't open on click and gives 404 error, either **try opening in incognito tab** or **clear browsing data**)
