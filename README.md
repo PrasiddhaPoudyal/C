@@ -11,7 +11,7 @@
 <div align = center> C Lab Sheet 1 (Basic constructor in C) </div>(1 to 10 only available for now.)
 
    1. [Write a program to find addition, subtraction, multiplication and division of two numbers entered by the user.](https://prasiddhapoudyal.com.np/uploads/1_1.png "Click to see output running")
-   1.  [Write a program to calculate the surface area of cube. Hint area=6l^2](https://prasiddhapoudyal.com.np/uploads/1_2.png "Click to see output running")
+   1.  [Write a program to calculate the surface area of cube. [Hint area=6l^2]](https://prasiddhapoudyal.com.np/uploads/1_2.png "Click to see output running")
    1.  [Write a program to calculate the area and circumference of the circle.](https://prasiddhapoudyal.com.np/uploads/1_3.png "Click to see output running")
    1. [The length and breadth are input through the keyboard. Write a program to calculate the area and perimeter of the rectangle.](https://prasiddhapoudyal.com.np/uploads/1_4.png "Click to see output running")
    1.  [Write a program to divide one integer by another integer and find the quotient and remainder.](https://prasiddhapoudyal.com.np/uploads/1_5.png "Click to see output running")
