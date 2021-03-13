@@ -7,13 +7,13 @@
 <div align = center> C Lab Sheet 1 (Basic constructor in C) </div>
 
    1. [Write a program to find addition, subtraction, multiplication and division of two numbers entered by the user.](https://prasiddhapoudyal.com.np/uploads/1_1.png "Click to see output running")
-   1.  [Write a program to calculate the surface area of cube. [Hint area=6l2]](https://prasiddhapoudyal.com.np/uploads/1_2.png "Click to see output running")
+   1.  [Write a program to calculate the surface area of cube. Hint area=6l^2](https://prasiddhapoudyal.com.np/uploads/1_2.png "Click to see output running")
    1.  [Write a program to calculate the area and circumference of the circle.](https://prasiddhapoudyal.com.np/uploads/1_3.png "Click to see output running")
    1. [The length and breadth are input through the keyboard. Write a program to calculate the area and perimeter of the rectangle.](https://prasiddhapoudyal.com.np/uploads/1_4.png "Click to see output running")
    1.  [Write a program to divide one integer by another integer and find the quotient and remainder.](https://prasiddhapoudyal.com.np/uploads/1_5.png "Click to see output running")
    1.  [Write a program to convert entered number of seconds into hours, minutes and seconds.](https://prasiddhapoudyal.com.np/uploads/1_6.png "Click to see output running")
-   1.  [Write a program to convert entered number of days into years, months and days.](https://prasiddhapoudyal.com.np/uploads/1_7.png "Click to see output running")
-   1.  [Write a program to convert length from mm to km, m, cm and mm.](https://prasiddhapoudyal.com.np/uploads/1_8.png "Click to see output running")
+   1.  [Write a program to convert entered number of days into years, months and days.](https://prasiddhapoudyal.com.np/uploads/1_6.png "Click to see output running")
+   1.  [Write a program to convert length from km to m, cm and mm.](https://prasiddhapoudyal.com.np/uploads/1_8.png "Click to see output running")
    1.  [Write a program to input three digit numbers and reverse the number.](https://prasiddhapoudyal.com.np/uploads/1_9.png "Click to see output running")
    1.  [If the marks obtained by a student in five different subjects are input through the keyboard, find out the aggregate marks and percentage marks obtained by the student. Assume that the maximum marks obtained by a student in each subject are 100.](https://prasiddhapoudyal.com.np/uploads/1_10.png "Click to see output running")
    1.  [Write a program that will convert temperature in Centigrade into Fahrenheit. [Hint: C=5/9(F-32) and F=9/5*C+32]](https://prasiddhapoudyal.com.np/uploads/1_11.png "Click to see output running")
