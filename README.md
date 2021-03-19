@@ -8,7 +8,7 @@
 ### <div align = center>Click on any of the questions below to see its output</div> 
 (If doesn't open on click and gives 404 error, either **try opening in incognito tab** or **clear browsing data**)
 
-<div align = center> C Lab Sheet 1 (Basic constructor in C) </div>(1 to 12 only available for now.)
+<div align = center> C Lab Sheet 1 (Basic constructor in C) </div>(1 to 13 only available for now.)
 
    1. [Write a program to find addition, subtraction, multiplication and division of two numbers entered by the user.](https://prasiddhapoudyal.com.np/uploads/1_1.png "Click to see output running")
    1.  [Write a program to calculate the surface area of cube. [Hint area=6l^2]](https://prasiddhapoudyal.com.np/uploads/1_2.png "Click to see output running")
