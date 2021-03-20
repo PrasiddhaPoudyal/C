@@ -26,7 +26,7 @@
    1.  [Two numbers are input through the keyboard. Write a program to interchange the the contents.](https://prasiddhapoudyal.com.np/uploads/1_14.png "Click to see output running")
    1.  [If a five-digit number is entered through the keyboard, write a program to calculate the sum of its digits.](https://prasiddhapoudyal.com.np/uploads/1_15.png "Click to see output running")
    1.  [Two number are entered through keyboard and if the first number is greater than second number then print the sum of number otherwise print the difference of number (use ternary operator).](https://prasiddhapoudyal.com.np/uploads/1_16.png "Click to see output running")
-   1.  [Entered a number in decimal and print it in octal and hexadecimal.](https://prasiddhapoudyal.com.np/uploads/1_17.png "Click to see output running")
+   1.  [Write a program to convert entered decimal number into octal and hexadecimal.](https://prasiddhapoudyal.com.np/uploads/1_17.png "Click to see output running")
    1.  [Write a program that ask the radius of sphere and print the volume of sphere.](https://prasiddhapoudyal.com.np/uploads/1_18.png "Click to see output running")
    1.  [Write a program that ask a number and print the remainder after dividing the number by 5.](https://prasiddhapoudyal.com.np/uploads/1_19.png "Click to see output running")
    
