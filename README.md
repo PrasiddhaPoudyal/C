@@ -34,7 +34,7 @@
     
    1. [Write a program to generate Fibonacci Series.](https://prasiddhapoudyal.com.np/uploads/2_1.png "Click to see output running")
    1. [Write a program to print out all Armstrong numbers between 1 and 500.](https://prasiddhapoudyal.com.np/uploads/2_2.png "Click to see output running")
-   1. [Hint: If sum of cubes of each digit of the number is equal to the number itself, then the number is called an Armstrong number. For example, 153 = (1*1*1) + (5*5*5) + (3*3*3)](https://prasiddhapoudyal.com.np/uploads/2_3.png "Click to see output running")
+   1. [Hint: If sum of cubes of each digit of the number is equal to the number itself, then the number is called an Armstrong number. For example, 153 = (1*1*1) + (5*5*5) + (3*3*3)](https://prasiddhapoudyal.com.np/uploads/2_2.png "Click to see output running")
    1. [Write a program to generate numbers from 1 to 10 using while statement.](https://prasiddhapoudyal.com.np/uploads/2_4.png "Click to see output running")
    1. [Write a program to generate numbers from 9 to 0 using while statement.](https://prasiddhapoudyal.com.np/uploads/2_5.png "Click to see output running")
    1. [Write a program to print all the numbers from 10 to 1 and find their sum using while loop.](https://prasiddhapoudyal.com.np/uploads/2_6.png "Click to see output running")
