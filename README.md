@@ -1,7 +1,7 @@
 
 
 # <div align = center> C labsheets solutions </div>
-## Only available upto lab 3.1
+## Only available upto lab 3.2
 ## To download all the programs follow these steps:
          Step 1: Install Git
          Step 2: git clone "https://github.com/prasiddhapoudyal/c.git"
