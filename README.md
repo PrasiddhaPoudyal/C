@@ -1,7 +1,7 @@
 
 
 # <div align = center> C labsheets solutions </div>
-## Only available upto lab 3
+## Only available upto lab 4
 ## To download all the programs follow these steps:
          Step 1: Install Git
          Step 2: git clone "https://github.com/prasiddhapoudyal/c.git"
@@ -94,7 +94,7 @@
    1. [Write a program to calculate Fibonacci series using recursive function.](https://prasiddhapoudyal.com.np/uploads/4_9.png "Click to see output running")
    1. [Write a program to calculate a raised to the power b using recursive function.](https://prasiddhapoudyal.com.np/uploads/4_10.png "Click to see output running")
    1. [Write a program to find the sum of first twenty natural numbers using function.](https://prasiddhapoudyal.com.np/uploads/4_11.png "Click to see output running")
-   1. [Write a program to generate the Fibonacci series using recursive function.](https://prasiddhapoudyal.com.np/uploads/4_12.png "Click to see output running")
+   1. [Write a program to generate the Fibonacci series using recursive function.](https://prasiddhapoudyal.com.np/uploads/4_9.png "Click to see output running")
 
 <div align = center>C Lab Sheet 5 (Structure and Union) </div>
 
